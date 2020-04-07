@@ -1,0 +1,7 @@
+[bitbucket]
+username=
+password=
+team=
+[github]
+username=
+password=
